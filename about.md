@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a biologist with a background in genetics and neural development. This blog chronicles my attempt to develop the skills necessary for manipulating and analyzing large datasets, from genomics to subway ridership to the written word and beyond. 
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[pjw2130@domain.com](mailto:pjw2130@domain.com)
